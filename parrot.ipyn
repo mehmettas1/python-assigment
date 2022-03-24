@@ -1,0 +1,13 @@
+def parrot_trouble(talking, hour):
+    if talking  and (6 <= hour <= 21) or talking == False:
+        return False
+    else:
+        return True
+
+
+print(parrot_trouble(True, 5))
+#True
+print(parrot_trouble(True, 8))
+#False
+print(parrot_trouble(False, 22))
+#False
