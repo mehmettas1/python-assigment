@@ -1,0 +1,63 @@
+  GNU nano 5.9                                                                                                     python.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+passw = {'Joseph':'W@12'}
+
+name = input("Write your name : ")
+
+if name == 'Joseph':
+    print("Hello, {}! The password is : {}".format(name, passw[name]))
+else:
+    print("Hello, {}! See you later.".format(name))
+asdasd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                
+
