@@ -1,4 +1,4 @@
-print("\t *** Hello! Welcome to the Coronavirus Risk Analyze Program \n"
+  .print("\t *** Hello! Welcome to the Coronavirus Risk Analyze Program \n"
 "\tGive answer only True and False. True means = Yes, False means = No***")
     
 age = input("Are you a cigarette addict older than 75 years old? : ")
