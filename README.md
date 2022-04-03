@@ -42,7 +42,7 @@ I prefer React & React Native for web/mobile front-end development.
 </p>
 
 
-## 📈 Statistics
+ 📈 Statistics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GİTHUB-USERNAME&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GİTHUB-USERNAME&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
