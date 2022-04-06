@@ -1,4 +1,4 @@
-## Hello there 👋  My name is Esad. 
+## Hello there 👋  My name is Mehmet. 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esad-akman-375811230/) 
 <a href="https://github.com/esadakman" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" height="28.5"/>
@@ -11,7 +11,7 @@
 - 💬 Ask me about anything that you want to learn
 
 - ✨ You can reach me via :  <a href="https://www.linkedin.com/in/esad-akman-375811230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
-- 📫and also you can send me an e-mail: esadd26@gmail.com
+- 📫and also you can send me an e-mail: Tas349873@gmail.com
 
 
 ## 🚀 Skills
